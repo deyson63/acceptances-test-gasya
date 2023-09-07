@@ -1,0 +1,5 @@
+Como usuario potencial, quiero tener la opción de registrarme en el sitio web para acceder a funcionalidades adicionales o recibir información relevante.
+
+Given que ingreso a la web
+When le doy click en Registro
+Then se muestra los pasos para registrarse.
