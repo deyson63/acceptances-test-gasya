@@ -1,0 +1,5 @@
+Como usuario, quiero acceder a una sección "Acerca de nosotros" donde pueda encontrar información detallada sobre las características y la misión de la web.
+
+Given que encuentro en el LandingPage
+When doy Click en about
+Then se muestra toda la informacion de esa sección
