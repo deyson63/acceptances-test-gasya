@@ -1,0 +1,6 @@
+Como usuario, quiero visitar la sección "Equipo" para conocer al equipo de desarrollo detrás de la web y obtener información sobre sus roles y perfiles.
+
+Given encuentro en el LandingPage
+When doy Click en Equipo
+Then se muestra toda la información del equipo de desarrollo
+
